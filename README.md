@@ -31,9 +31,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/joelwright-dev/K.A.I">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">K.A.I</h3>
 
@@ -45,7 +42,7 @@
     <br />
     <a href="https://github.com/joelwright-dev/K.A.I">View Demo</a>
     ·
-    <a href="https://github.com/joelwright-dev/K.A.I/issues">K.A.Irt Bug</a>
+    <a href="https://github.com/joelwright-dev/K.A.I/issues">K.A.I Bugs</a>
     ·
     <a href="https://github.com/joelwright-dev/K.A.I/issues">Request Feature</a>
   </p>
@@ -58,12 +55,6 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -75,7 +66,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
