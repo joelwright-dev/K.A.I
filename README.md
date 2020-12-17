@@ -25,7 +25,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -80,26 +79,6 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`joelwright-dev`, `K.A.I`, `twitter_handle`, `proxy.coding@gmail.com`, `K.A.I`, `Standing for Knowledgeable Artificial Intelligence - K.A.I is a desktop assistant running off just a single .py script`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -153,8 +132,6 @@ Voice Commands
 
 See the [open issues](https://github.com/joelwright-dev/K.A.I/issues) for a list of proposed features (and known issues).
 
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -166,14 +143,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the Apache-2.0 License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -181,19 +154,6 @@ Distributed under the Apache-2.0 License. See `LICENSE` for more information.
 Joel Wright - proxy.coding@gmail.com - [YouTube](https://www.youtube.com/channel/UCIWJJuyQMNwjT58rBliJiqw)
 
 Project Link: [https://github.com/joelwright-dev/K.A.I](https://github.com/joelwright-dev/K.A.I)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -206,5 +166,4 @@ Project Link: [https://github.com/joelwright-dev/K.A.I](https://github.com/joelw
 [issues-shield]: https://img.shields.io/github/issues/joelwright-dev/K.A.I.svg?style=for-the-badge
 [issues-url]: https://github.com/joelwright-dev/K.A.I/issues
 [license-shield]: https://img.shields.io/github/license/joelwright-dev/K.A.I.svg?style=for-the-badge
-[license-url]: https://github.com/joelwright-dev/K.A.I/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[license-url]: https://github.com/joelwright-dev/K.A.I/blob/master/LICENSE
