@@ -1,6 +1,6 @@
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
+*** that would make this better, please fork the K.A.I and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
@@ -46,7 +46,7 @@
     <br />
     <a href="https://github.com/joelwright-dev/K.A.I">View Demo</a>
     ·
-    <a href="https://github.com/joelwright-dev/K.A.I/issues">Report Bug</a>
+    <a href="https://github.com/joelwright-dev/K.A.I/issues">K.A.Irt Bug</a>
     ·
     <a href="https://github.com/joelwright-dev/K.A.I/issues">Request Feature</a>
   </p>
@@ -107,19 +107,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/joelwright-dev/K.A.I.git
-   ```
-2. Install pip packages
+1. Install pip packages
    ```sh
    pip install speechrecognition
    pip install datetime
@@ -130,16 +118,35 @@ This is an example of how to list things you need to use the software and how to
    pip install bs4
    ```
 
+### Installation
 
+1. Clone K.A.I
+   ```sh
+   git clone https://github.com/joelwright-dev/K.A.I.git
+   ```
+   
+2. Run K.A.I
+   ```sh
+   python K.A.I.py
+   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+Voice Commands
+   ```sh
+   search wikipedia for *term* || searches wikipedia for the term you give it, tells you a summary, and opens the page in a new tab
+   search google for *term* || searches google for the term you give it and opens the page in a new tab
+   open youtube || opens youtube in a new tab
+   open google || opens google in a new tab
+   open gmail || opens gmail in a new tab
+   time || tells the current H:M
+   ask - the thing you want to ask || asks wolframalpha your question: e.g. 2 + 2, what is the square root of pie etc..
+   weather - the city you want data on || gets data from the openweathermap API for your chosen city
+   log off/sign out || log out of your computer for you
+   mute || mute K.A.I
+   unmute || unmute K.A.I
+   ```
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -190,15 +197,14 @@ Project Link: [https://github.com/joelwright-dev/K.A.I](https://github.com/joelw
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/joelwright-dev/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/joelwright-dev/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/joelwright-dev/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/joelwright-dev/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/joelwright-dev/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/joelwright-dev/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/joelwright-dev/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/joelwright-dev/repo/issues
-[license-shield]: https://img.shields.io/github/license/joelwright-dev/repo.svg?style=for-the-badge
-[license-url]: https://github.com/joelwright-dev/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/joelwright-dev/K.A.I.svg?style=for-the-badge
+[contributors-url]: https://github.com/joelwright-dev/K.A.I/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/joelwright-dev/K.A.I.svg?style=for-the-badge
+[forks-url]: https://github.com/joelwright-dev/K.A.I/network/members
+[stars-shield]: https://img.shields.io/github/stars/joelwright-dev/K.A.I.svg?style=for-the-badge
+[stars-url]: https://github.com/joelwright-dev/K.A.I/stargazers
+[issues-shield]: https://img.shields.io/github/issues/joelwright-dev/K.A.I.svg?style=for-the-badge
+[issues-url]: https://github.com/joelwright-dev/K.A.I/issues
+[license-shield]: https://img.shields.io/github/license/joelwright-dev/K.A.I.svg?style=for-the-badge
+[license-url]: https://github.com/joelwright-dev/K.A.I/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/joelwright-dev
