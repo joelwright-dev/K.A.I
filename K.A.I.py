@@ -10,6 +10,7 @@ import subprocess
 import wolframalpha
 import json
 import requests
+from bs4 import BeautifulSoup
 
 # SET VOICE ASSISTANT SETTINGS #
 engine=pyttsx3.init('sapi5')
@@ -42,7 +43,7 @@ def takeCommand():
             speak ("Sorry, I don't understand what you said")
             return "None"
         return statement
-
+        
 # PRINT AND SPEAK A GREETING #
 print("Loading your AI personal assistant K.A.I")
 speak("Loading your AI personal assistant KAI")
